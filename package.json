@@ -1,7 +1,7 @@
 {
   "name": "borozdov-recess",
   "private": true,
-  "description": "A schoolyard notebook on cream paper: rounded lowercase headlines, charcoal ink, outlined pills and a marker-orange underline.",
+  "description": "A schoolyard notebook on cream paper: rounded lowercase headlines, charcoal ink, outlined pills and a marker-orange swipe.",
   "license": "MIT",
   "scripts": {
     "fonts": "python3 scripts/embed-fonts.py",
