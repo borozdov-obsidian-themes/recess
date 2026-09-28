@@ -159,7 +159,7 @@ note is a white label with a charcoal outline.</p></div>
 {callout('success', 'check', 'Done', 'Green for what is finished.')}
 {callout('warning', 'triangle-alert', 'Heads up', 'Orange for what needs a look, red for real trouble.')}
 <div class="el-blockquote"><blockquote dir="auto"><p>Neat is nice, but finished is better.</p></blockquote></div>
-{table(['Face', 'Role'], ['Comfortaa 700', 'Title and the two largest headings, lowercase'], ['Sans 400', 'Body text'], ['Sans 600', 'Labels and bold'])}
+{table(['Face', 'Role'], ['Recess Sans 700', 'Title and the two largest headings, lowercase'], ['Sans 400', 'Body text'], ['Sans 600', 'Labels and bold'])}
 """
 
 NOTE_RU = f"""

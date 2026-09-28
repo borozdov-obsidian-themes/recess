@@ -11,7 +11,7 @@ orange underline.
 
 ## Principles
 
-- **A child's notebook at full volume.** The title and the largest heading in Comfortaa
+- **A child's notebook at full volume.** The title and the largest heading in Recess Sans
   Bold, in lowercase with normal tracking; the platform's own sans for everything else.
 - **Charcoal is the only ink.** Text, borders and button strokes are charcoal, headlines a
   warm cocoa; buttons are never filled, only outlined.
@@ -45,9 +45,10 @@ Appearance → Themes.
 
 ## Font
 
-Comfortaa Bold (© 2011 The Comfortaa Project Authors) is embedded in `theme.css` as base64
-WOFF2 under the SIL Open Font License 1.1 — see [`fonts/OFL.txt`](fonts/OFL.txt). One
-weight, Latin and Cyrillic, for the title and the two largest headings only.
+Recess Sans is embedded in `theme.css` as base64 WOFF2 under the SIL Open Font License
+1.1 — see [`fonts/OFL.txt`](fonts/OFL.txt). It is a Latin and Cyrillic subset of Comfortaa
+Bold (© 2011 The Comfortaa Project Authors), renamed because a modified copy may not use the
+original's Reserved Font Name. One weight, for the title and the two largest headings only.
 
 ## License
 
@@ -57,6 +58,6 @@ MIT — see [LICENSE](LICENSE).
 
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Школьный двор» — школьная
 тетрадь на кремовой бумаге в мягком дневном свете, и тёмный «Домашка» — та же тетрадь за
-столом вечером. Округлые заголовки строчными буквами (Comfortaa), угольные чернила, пилюли с
-обводкой и мазок оранжевого маркера. Устанавливается из каталога: Настройки → Оформление →
+столом вечером. Округлые заголовки строчными буквами (Recess Sans), угольные чернила, пилюли
+с обводкой и мазок оранжевого маркера. Устанавливается из каталога: Настройки → Оформление →
 Темы → Настроить → Borozdov Recess → Установить и применить.

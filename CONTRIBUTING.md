@@ -27,8 +27,9 @@ House rules:
   literal.
 - Cream paper, charcoal ink and outlined pills; marker orange for the highlighter swipe, a
   checked task and the caret; the title and the largest heading are set in lowercase. The
-  only embedded font is Comfortaa Bold (the title and the two largest headings):
-  `fonts/*.woff2` are written into `theme.css` by `npm run fonts`.
+  only embedded font is Recess Sans Bold, a renamed subset of Comfortaa Bold (the title
+  and the two largest headings): `fonts/*.woff2` are written into `theme.css` by
+  `npm run fonts`.
 - The release ships `dist/theme.css` from `npm run build`: the same file without
   comments. The build fails on any lint problem.
 

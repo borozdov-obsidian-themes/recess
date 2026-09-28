@@ -1,3 +1,6 @@
+Recess Sans is a modified version of Comfortaa Bold: a Latin and Cyrillic subset, renamed
+because the original carries a Reserved Font Name.
+
 Comfortaa, Copyright 2011 The Comfortaa Project Authors (aajohan@gmail.com), with Reserved Font Name "Comfortaa".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
